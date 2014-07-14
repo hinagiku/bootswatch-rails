@@ -1,3 +1,4 @@
+replace google fonts by 360
 # bootswatch-rails
 
 [![Gem Version](https://badge.fury.io/rb/bootswatch-rails.svg)](http://badge.fury.io/rb/bootswatch-rails)
